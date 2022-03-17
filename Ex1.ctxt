@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Ex1
-comment0.text=\r\n\ Execute\ o\ programa\ Java\ abaixo\ e\ descubra\ o\ intervalo\ de\ representa\u00E7\u00E3o\r\ndo\ tipos\ num\u00E9ricos\:\ int\ e\ double\r\n(a)\ Que\ outros\ tipos\ num\u00E9ricos\ (primitivos)\ existem\ em\ Java\ ?\r\n(b)\ Quantos\ bytes\ cada\ um\ desses\ tipos\ ocupa\ de\ mem\u00F3ria\ ?\r\n(c)\ Qual\ o\ intervalo\ de\ representa\u00E7\u00E3o\ desses\ outros\ tipos\ num\u00E9ricos\ ?\r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
