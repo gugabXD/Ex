@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ex3
+comment0.text=\r\n\ \ O\ programa\ abaixo\ apresentar\u00E1\ um\ erro\ de\ representa\u00E7\u00E3o.\ Exibir\u00E1\ Diferenca\ \=\r\n0.07000000000000028\ ao\ inv\u00E9s\ de\ Diferenca\ \=\ 0.07.\ Sem\ modificar\ os\r\ntipos\ das\ vari\u00E1veis,\ como\ podemos\ corrigir\ esse\ erro\ para\ que\ o\ programa\r\nexiba\ o\ resultado\ correto\ ?\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
